@@ -6,9 +6,9 @@ using System.Web.Mvc;
 
 namespace MVCContVersion.Controllers
 {
-    public class CategoryController : Controller
+    public class ProductController : Controller
     {
-        // GET: Category
+        // GET: Product
         public ActionResult Index()
         {
             return View();
