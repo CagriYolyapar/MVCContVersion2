@@ -8,6 +8,7 @@ namespace MVCContVersion.Controllers
 {
     public class CategoryController : Controller
     {
+
         // GET: Category
         public ActionResult Index()
         {
